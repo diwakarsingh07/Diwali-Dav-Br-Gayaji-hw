@@ -49,7 +49,7 @@ Both platforms allow users to create simple image recognition projects without c
 **Name:** Diwakar  
 **Class:** 10F  
 **Roll No.:** 20  
-**Institution:** Narayan  
+**Institution:** STAR INDUSTRIES 
 
 This project is part of my learning journey in Artificial Intelligence and Computer Vision.  
 It combines creativity, understanding, and presentation — making technology learning more visual and fun!
